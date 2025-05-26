@@ -1,0 +1,393 @@
+Country,Mentions,AverageSentiment
+Cambodia,2,-0.9990
+Haiti,2,-0.9968
+Córdoba,2,-0.9967
+Somalia,4,-0.9960
+Ethiopia,4,-0.9960
+Bihar,3,-0.9954
+Derna,2,-0.9942
+Myanmar,5,-0.9940
+Islamabad,4,-0.9939
+Tulsa,3,-0.9938
+Nepal,2,-0.9930
+East Africa,2,-0.9929
+Ventura,2,-0.9929
+Malaysia,2,-0.9919
+Queensland,2,-0.9912
+Jefferson County,2,-0.9903
+Mobile,4,-0.9891
+Bangkok,4,-0.9884
+Eaton,3,-0.9878
+the Soviet Union,2,-0.9878
+Laos,4,-0.9877
+Sichuan province,2,-0.9860
+Bakersfield,2,-0.9844
+Santa Ana,2,-0.9836
+Bulgaria,3,-0.9828
+Virginia Beach,2,-0.9808
+Montpelier,2,-0.9808
+Sudan,2,-0.9806
+Sindh,6,-0.9803
+Buncombe County,2,-0.9790
+Prince George’s County,2,-0.9766
+Napa County,2,-0.9766
+Santa Cruz,4,-0.9764
+Central Africa,2,-0.9761
+Pittsburgh,2,-0.9682
+Balochistan,3,-0.9676
+Shreveport,2,-0.9674
+Lebanon,2,-0.9604
+Shandong,2,-0.9587
+Karachi,2,-0.9516
+Henan,2,-0.9505
+Colorado Springs,2,-0.9449
+Baku,5,-0.9379
+Nature,2,-0.9360
+Karnataka,2,-0.9330
+Elderly,2,-0.9011
+Springfield,3,-0.8921
+Casper,2,-0.8857
+Cordoba,2,-0.8822
+Estonia,2,-0.8735
+Columbus,2,-0.8735
+Grenada,2,-0.8735
+Gansu,2,-0.8186
+Kansas City,12,-0.7533
+El Paso,5,-0.7517
+Greece,9,-0.7346
+Knoxville,3,-0.7055
+Sacramento,12,-0.6725
+Memphis,10,-0.6679
+Vietnam,13,-0.6659
+Fresno,6,-0.6599
+UC,2,-0.6596
+Turkey,6,-0.6519
+Indigenous,5,-0.6419
+Missouri,21,-0.6301
+Delaware,6,-0.6197
+Houston,9,-0.6164
+Huntsville,2,-0.5946
+Manila,5,-0.5933
+Alberta,4,-0.5930
+Delhi,10,-0.5858
+San Joaquin,2,-0.5769
+Birmingham,5,-0.5668
+British Columbia,8,-0.5563
+South Dakota,6,-0.5563
+Las Vegas,15,-0.5543
+Montgomery,3,-0.5504
+Thailand,9,-0.5476
+Alabama,21,-0.5448
+Maricopa County,9,-0.5440
+Oklahoma City,10,-0.5418
+New Delhi,9,-0.5402
+Philippines,15,-0.5314
+Charlotte,5,-0.5213
+Maryland,13,-0.5194
+Jackson,4,-0.5098
+Pakistan,38,-0.5091
+Cincinnati,4,-0.5043
+Afghanistan,6,-0.5042
+Charleston,4,-0.4962
+Hurricanes,5,-0.4926
+Little Rock,4,-0.4660
+LA,4,-0.4561
+St. Louis,14,-0.4386
+South Korea,6,-0.4365
+Phoenix,30,-0.4361
+Chad,4,-0.4334
+Bangladesh,11,-0.4333
+Atlanta,18,-0.4191
+Alberto,2,-0.4189
+Yakutsk,3,-0.4069
+Jamaica,3,-0.4056
+Iraq,4,-0.4010
+Denver,11,-0.3957
+Oregon,26,-0.3955
+Sichuan,4,-0.3923
+Thwaites,4,-0.3912
+Ecuador,3,-0.3898
+Long Island,2,-0.3888
+North Dakota,17,-0.3759
+Kansas,20,-0.3572
+Idaho,13,-0.3481
+Salt Lake City,3,-0.3476
+Austin,8,-0.3445
+Arkansas,21,-0.3437
+Poland,3,-0.3426
+New York’s,3,-0.3329
+Mozambique,3,-0.3327
+Zimbabwe,3,-0.3321
+Hartford,3,-0.3306
+Dallas,17,-0.3248
+San Diego,8,-0.3245
+Noru,3,-0.3215
+Idalia,3,-0.3194
+Gaza,3,-0.3079
+Louisville,3,-0.3006
+Oklahoma,20,-0.2987
+Colorado,27,-0.2948
+Nevada,17,-0.2896
+Mississippi,27,-0.2887
+Spain,24,-0.2855
+New Mexico,14,-0.2785
+Catalonia,3,-0.2722
+Portland,12,-0.2706
+Bali,3,-0.2692
+Illinois,19,-0.2687
+Sharm el-Sheikh,11,-0.2659
+Vermont,14,-0.2626
+Nashville,13,-0.2622
+Seville,3,-0.2583
+Montana,17,-0.2552
+Detroit,14,-0.2423
+Kentucky,15,-0.2348
+India,52,-0.2316
+Libya,5,-0.2199
+West Virginia,21,-0.2175
+Azerbaijan,8,-0.2123
+Buffalo,13,-0.2110
+Belgium,5,-0.2072
+Reno,5,-0.2025
+Arizona,39,-0.1975
+Carolinas,13,-0.1970
+"Washington, DC",27,-0.1923
+Singh,5,-0.1900
+Ohio,19,-0.1866
+Iceland,9,-0.1847
+Canada,48,-0.1835
+Tennessee,28,-0.1834
+Seattle,10,-0.1826
+Nebraska,10,-0.1689
+Chicago,36,-0.1627
+North Carolina,25,-0.1584
+New Jersey,22,-0.1581
+Texas,84,-0.1472
+Walker,2,-0.1386
+Iowa,17,-0.1368
+the Cayman Islands,2,-0.1334
+Puerto Rico,11,-0.1271
+Guatemala,4,-0.1227
+Kuwait,5,-0.1214
+South Africa,9,-0.1181
+Massachusetts,18,-0.1171
+Rome,2,-0.1124
+Virginia,18,-0.1118
+Louisiana,37,-0.1035
+Sweden,7,-0.1010
+Sharm El Sheikh,2,-0.0990
+Scotland,6,-0.0951
+Tallahassee,2,-0.0873
+Philadelphia,34,-0.0788
+Mexico,31,-0.0732
+Beijing,18,-0.0669
+Indianapolis,9,-0.0622
+New York,65,-0.0612
+Los Angeles,24,-0.0487
+Tianjin,2,-0.0473
+California,106,-0.0460
+Indiana,12,-0.0385
+Florida,73,-0.0373
+Washington,44,-0.0350
+San Juan,2,-0.0349
+Typhoon,2,-0.0326
+Météo,2,-0.0287
+Wisconsin,19,-0.0259
+Acapulco,2,-0.0259
+UK,75,-0.0250
+Portugal,6,-0.0226
+New Zealand,5,-0.0189
+Minneapolis,13,-0.0187
+Argentina,10,-0.0169
+Hebei,2,-0.0113
+Heilongjiang province,2,-0.0092
+Cape Coral,2,-0.0088
+Italy,15,-0.0084
+West Bengal,2,-0.0057
+Lexington,2,-0.0041
+Fiona,2,-0.0038
+Mecca,2,-0.0034
+Hanford,2,-0.0034
+Rajasthan,2,-0.0016
+Polynesia,2,-0.0013
+Hong Kong,2,-0.0012
+Papua New Guinea,2,-0.0007
+West Texas,2,-0.0006
+Hollywood,2,0.0002
+Gujarat,2,0.0007
+Zambia,2,0.0011
+the Czech Republic,2,0.0032
+St. Paul,2,0.0038
+Netflix,2,0.0040
+Jordan,2,0.0044
+Cedar Rapids,2,0.0065
+Niger,2,0.0066
+Lake Charles,2,0.0077
+Des Moines,6,0.0078
+Fargo,2,0.0080
+Panama City,2,0.0081
+New York City,49,0.0094
+Odense,2,0.0101
+Albany,2,0.0118
+Austria,6,0.0133
+Sydney,4,0.0146
+Greenland,16,0.0161
+Beryl,3,0.0162
+Wales,2,0.0183
+China,88,0.0221
+Riyadh,2,0.0243
+Saudi Arabia’s,2,0.0253
+Panama,2,0.0259
+South Australia,2,0.0261
+Omaha,2,0.0285
+Liberia,2,0.0301
+Singapore,4,0.0413
+Barcelona,4,0.0447
+New Orleans,16,0.0518
+Debby,3,0.0557
+Berkeley,2,0.0638
+Japan,18,0.0676
+Minnesota,18,0.0719
+Ukraine,32,0.0773
+Nigeria,7,0.0837
+DC,18,0.0888
+Maine,27,0.0960
+the United Kingdom,13,0.0961
+Utah,21,0.0967
+Pennsylvania,18,0.0980
+Wichita,2,0.1061
+COP27,34,0.1101
+Baton Rouge,3,0.1143
+Ireland,7,0.1144
+the United States,114,0.1146
+Egypt,42,0.1165
+Xinjiang,2,0.1238
+Bahrain,2,0.1246
+San Francisco,13,0.1301
+Manhattan,5,0.1305
+US,327,0.1311
+Bering,2,0.1399
+Germany,37,0.1439
+Finland,8,0.1472
+Oakland,2,0.1490
+Fahrenheit,36,0.1578
+San Jose,2,0.1581
+Kenya,14,0.1647
+Los Angeles County,3,0.1655
+Indonesia,10,0.1701
+n’t,40,0.1701
+Nicaragua,3,0.1720
+Georgia,20,0.1730
+Denmark,7,0.1804
+Paris,32,0.1867
+Orlando,5,0.1900
+Rhode Island,5,0.1936
+Boston,25,0.1959
+England,10,0.1993
+Michigan,16,0.2097
+Gulf of Mexico,9,0.2159
+London,23,0.2162
+Cleveland,10,0.2208
+Glasgow,14,0.2226
+Cuba,9,0.2238
+Hawaii,11,0.2283
+Wyoming,12,0.2311
+Brazil,12,0.2551
+Sicily,3,0.2573
+Bolivia,3,0.2656
+France,20,0.2792
+Australia,36,0.2901
+Rapid City,2,0.2952
+North Africa,3,0.3064
+Mississippi Valley,3,0.3087
+the DC area,3,0.3129
+Norway,13,0.3134
+Tokyo,3,0.3156
+Syracuse,5,0.3161
+America,31,0.3174
+Fiji,3,0.3202
+Connecticut,9,0.3213
+Namibia,3,0.3218
+Fort Myers,3,0.3245
+New Hampshire,3,0.3250
+Milwaukee,6,0.3291
+Jacksonville,3,0.3301
+Chongqing,3,0.3303
+Puerto Rico’s,3,0.3306
+Venice,3,0.3321
+Botswana,3,0.3323
+Brooklyn,3,0.3332
+Duluth,3,0.3357
+Russia,33,0.3430
+West Africa,3,0.3481
+United States,22,0.3532
+Miami,8,0.3680
+Boise,2,0.3892
+Baltimore,10,0.3986
+Saudi Arabia,22,0.4006
+Switzerland,12,0.4021
+Richmond,3,0.4064
+Venezuela,2,0.4155
+Great Lakes,8,0.4274
+The United States,7,0.4303
+Dubai,52,0.4374
+Peru,6,0.4473
+Honduras,5,0.4515
+Iran,4,0.4663
+Syria,4,0.4701
+Chile,4,0.4731
+Netherlands,10,0.4843
+United Arab Emirates,4,0.4894
+Bahamas,7,0.4933
+Israel,10,0.5177
+U.S.,6,0.5208
+Biden,8,0.5280
+the United Arab Emirates,17,0.5392
+Britain,4,0.5489
+Alaska,28,0.5553
+South Carolina,5,0.5717
+Berlin,5,0.5913
+Saharan,3,0.6136
+Oman,3,0.6186
+Morocco,7,0.6362
+Ohio Valley,2,0.6476
+The United Arab Emirates,6,0.6508
+Taiwan,6,0.6620
+Eureka,2,0.7188
+Cambridge,2,0.7462
+Belize,2,0.7481
+New York State,2,0.7486
+Miami-Dade County,2,0.8858
+Davos,2,0.8901
+Daytona Beach,2,0.9293
+AI,5,0.9524
+Qatar,4,0.9588
+Piedmont,2,0.9663
+United Kingdom,2,0.9782
+Ammonia,2,0.9787
+Earthjustice,3,0.9809
+Princeton,2,0.9813
+Mauritania,2,0.9819
+Senegal,2,0.9819
+Erie,4,0.9822
+Tanzania,2,0.9838
+Rhodium,4,0.9845
+UAE,3,0.9849
+Preserve,2,0.9860
+Palo Alto,2,0.9860
+Tampa,3,0.9883
+New York City’s,2,0.9897
+Fort Lauderdale,2,0.9920
+The United Kingdom,2,0.9929
+Naples,2,0.9936
+Tel Aviv,2,0.9938
+Stockholm,3,0.9941
+San Carlos,2,0.9950
+Irma,2,0.9951
+Emirati,2,0.9952
+Abu Dhabi,7,0.9955
+Algae,2,0.9964
+Modi,3,0.9974
+Nairobi,3,0.9985
+Zermatt,2,0.9991
+red states,3,0.9993
