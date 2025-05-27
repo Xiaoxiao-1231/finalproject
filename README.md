@@ -3,7 +3,7 @@
 **Author:** Xiao Zhou  
 **Date:** May 2025
 
-This project focuses on scraping climate-related news from **BBC** and **CNN**, extracting full content, identifying country/location mentions, and applying sentiment analysis.
+This project focuses on scraping climate-related news from **BBC** and **CNN**, extracting full content, identifying country/location mentions, and applying sentiment analysis to see if there are some potential sentiment bias in the reporting.
 
 ---
 
