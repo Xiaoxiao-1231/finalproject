@@ -12,7 +12,7 @@ This project focuses on scraping climate-related news from **BBC** and **CNN**, 
 ### 1. Scraping News Titles & Links
 - **Script:** `bbc_scraper.py`
 - **Output:** `BBC_Climate_Articles_Limited.csv`  
-- **Note:** Pagination was done manually; total 403 articles scraped.
+- **Note:** Pagination was done manually; total 403 articles scraped. (search key word: climate)
 
 ### 2. Scraping Full Article Content
 - **Script:** `bbc_content.py`
@@ -29,6 +29,7 @@ This project focuses on scraping climate-related news from **BBC** and **CNN**, 
 ### 1. Scraping News Titles & Links
 - **Script:** `cnn.py`
 - **Output:** `cnn.csv`
+- **Note:**  Pagination was done automatically. A total of 573 articles scarped. (search key word: climate solution)
 
 ### 2. Scraping Full Article Content
 - **Script:** `cnn_content.py`
